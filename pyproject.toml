@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xveco"
+version = "1.0.1"
+description = "Librería de economía simulada con cuentas, inflación y banco"
+authors = [{name="Siaro"}]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
